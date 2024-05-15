@@ -129,12 +129,4 @@ text-decoration: underline;
 form .signup-link a:hover{
     text-decoration: underline;
 }
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #000000;
-    color: black;
-    text-align: center;
- }
+
